@@ -1,4 +1,6 @@
 # draftil
+Currently live at [draftil.gytdau.com](http://draftil.gytdau.com/)
+
 A word processor without a delete button.
 
 
